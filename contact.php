@@ -3,7 +3,7 @@ $field_name = $_POST['cf_name'];
 $field_email = $_POST['cf_email'];
 $field_message = $_POST['cf_message'];
 
-$mail_to = 'dedalusonline@yahoo.com';
+$mail_to = 'anshul.chimaladinne@gmail.com';
 $subject = 'Message from a site visitor '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
@@ -24,7 +24,7 @@ if ($mail_status) { ?>
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to gordon@template-help.com');
+		alert('Message failed. Please, send an email to anshul.chimaladinne@gmail.com');
 		window.location = 'contact_page.html';
 	</script>
 <?php
