@@ -1,6 +1,0 @@
-{
-  "name": "Anshul Chimaladinne",
-  "tagline": "",
-  "body": "## Welcome to Anshul.\r\nMy name is Anshul Chimaladinne, and I'm a developer, computer aficionado, android enthusiast, and an athlete. Basically the coolest guy in the world.\r\n\r\n### Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n###### © 2016 **Anshul Chimaladinne**, All Rights Reserved [Github](https://github.com/anshulkch)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
