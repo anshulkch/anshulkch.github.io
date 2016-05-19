@@ -3059,5 +3059,8 @@
 			.button {
 				padding: 0;
 			}
+        #preload-01 { background: url(https://github.com/anshulkch/anshulkch.github.io/blob/master/images/apbot.png) no-repeat -9999px -9999px; }
+        #preload-02 { background: url(https://github.com/anshulkch/anshulkch.github.io/blob/master/images/avatar.jpg) no-repeat -9999px -9999px; }
+        #preload-03 { background: url(https://github.com/anshulkch/anshulkch.github.io/blob/master/images/groupbanner.jpg) no-repeat -9999px -9999px; }
 
 	}
